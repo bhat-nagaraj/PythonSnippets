@@ -1,5 +1,3 @@
-
-
 n1=int(input("enter number"))
 st=str(n1)
 for ch in st:
