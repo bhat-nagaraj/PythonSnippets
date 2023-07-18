@@ -1,5 +1,3 @@
-
-
 n=int(input("enter number"))
 sum=0
 temp=n
