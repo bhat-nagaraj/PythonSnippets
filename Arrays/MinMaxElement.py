@@ -1,4 +1,4 @@
-#Find two arrays are equal in length or not
+#Find Largest and Smallest element in the array
 arr1=[]
 
 
