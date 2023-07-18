@@ -1,5 +1,3 @@
-
-
 n=int(input("enter"))
 if n==1:
     print("false")
