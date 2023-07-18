@@ -1,4 +1,4 @@
-#Find duplicates in the array
+#Find pairs of elements sum of which are equals to target element
 
 
 list=[]
