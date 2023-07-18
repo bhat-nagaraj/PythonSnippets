@@ -1,5 +1,3 @@
-
-
 n=int(input("enter"))
 count=len(str(n))
 temp=n
